@@ -1,0 +1,16 @@
+[{
+		"file": "https://raw.githubusercontent.com/nats-io/nats.client.deps/main/digester_test/digester_test_bytes_000100.txt",
+		"hash": "IdgP4UYMGt47rgecOqFoLrd24AXukHf5-SVzqQ5Psg8="
+	},
+	{
+		"file": "https://raw.githubusercontent.com/nats-io/nats.client.deps/main/digester_test/digester_test_bytes_001000.txt",
+		"hash": "DZj4RnBpuEukzFIY0ueZ-xjnHY4Rt9XWn4Dh8nkNfnI="
+	},
+	{
+		"file": "https://raw.githubusercontent.com/nats-io/nats.client.deps/main/digester_test/digester_test_bytes_010000.txt",
+		"hash": "RgaJ-VSJtjNvgXcujCKIvaheiX_6GRCcfdRYnAcVy38="
+	}, {
+		"file": "https://raw.githubusercontent.com/nats-io/nats.client.deps/main/digester_test/digester_test_bytes_100000.txt",
+		"hash": "yan7pwBVnC1yORqqgBfd64_qAw6q9fNA60_KRiMMooE="
+	}
+]
