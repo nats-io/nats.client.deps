@@ -1,3 +1,3 @@
-# NATS .NET Client Dependencies Repository
+# NATS Client Dependencies Repository
 
-Dependencies for the NATS .NET repositories
+Storage for binary and data files used in client testing, builds, etc.
